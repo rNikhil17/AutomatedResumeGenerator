@@ -1,0 +1,21 @@
+.boder{
+       border: 1px black;
+}
+body {
+  background-color: #5cd5e7;
+}
+#cv-form {
+  display: inline;
+}
+#cv-template {
+  display: none;
+}
+.myimg {
+  /* border: 1px solid red; */
+  border-radius: 50%;
+  width: 200px;
+}
+
+.background {
+  background-color: aqua;
+}
